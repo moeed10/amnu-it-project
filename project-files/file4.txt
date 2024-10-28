@@ -1,7 +1,10 @@
 This is my first script
 
-# This is a test change
+# This is a test chane
 
 Welcome to my tutorial!
 
 Another code deployed in my Env
+
+Adding few more lines to my file
+
